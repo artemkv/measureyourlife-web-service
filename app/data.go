@@ -14,9 +14,8 @@ import (
 )
 
 const (
-	// TODO:
-	MEASUREYOURLIFE_TABLE_NAME string = "measureyourlife-test"
-	//MEASUREYOURLIFE_TABLE_NAME            string = "measureyourlife"
+	// MEASUREYOURLIFE_TABLE_NAME string = "measureyourlife-test"
+	MEASUREYOURLIFE_TABLE_NAME            string = "measureyourlife"
 	MEASUREYOURLIFE_TABLE_KEY             string = "Key"
 	MEASUREYOURLIFE_TABLE_SORT_KEY        string = "SortKey"
 	MEASUREYOURLIFE_TABLE_METRICS_ATTR    string = "metrics"
